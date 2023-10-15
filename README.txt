@@ -13,3 +13,7 @@ The Matplotlib Development Team. Matplotlib: Visualization with Python. v3.8.0, 
 LeCun, Yann, et al. MNIST_784. 2014, yann.lecun.com/exdb/mnist.
 
 (numpy reference)     Harris, C. R., et al. “Array Programming With NumPy.” Nature, vol. 585, no. 7825, Nature Portfolio, Sept. 2020, pp. 357–62. https://doi.org/10.1038/s41586-020-2649-2.
+
+Rollings, A. (2020). mlrose: Machine Learning, Randomized Optimization and SEarch package for Python, hiive extended remix. https://github.com/hiive/mlrose. Accessed: 14 10 2023.
+
+Hayes, G. (2019). mlrose: Machine Learning, Randomized Optimization and SEarch package for Python. https://github.com/gkhayes/mlrose. Accessed: 14 10 2023.
