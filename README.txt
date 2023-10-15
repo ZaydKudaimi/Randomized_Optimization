@@ -2,8 +2,9 @@
 
 steps to run:
 1 git clone git@github.com:ZaydKudaimi/Randomized_Optimization.git
-2 in the directory pip install numpy matplotlib scikit-learn
-3 run main.py
+2 in the directory pip install numpy matplotlib scikit-learn mlrose-hiive
+3 then run pip install joblib==1.2.0
+4 run main.py
 
 libraries and other code sources:
 Pedregosa, Fabian, et al. “Scikit-learn: Machine Learning in Python.” HAL (Le Centre Pour La Communication Scientifique Directe), French National Centre for Scientific Research, Oct. 2011, hal.inria.fr/hal-00650905.
